@@ -1,0 +1,3 @@
+- publish project
+- open the "Unicorn local environment configuration.mp4" to see how to configure Unicorn for Local environment
+- publish your change in the "Unicorn.CustomSerializationFolder.config" file
